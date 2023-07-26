@@ -1,0 +1,16 @@
+.home_new {
+    display: inline-block;
+    margin-left: 5%;
+    border: 1px solid #f5f5f5;
+    border-radius: 10px;
+    background-color: #A9A9A9;
+    margin-bottom: 30px;
+  }
+  
+  .home_new figcaption {
+    padding: 20px 0 20px 0;
+  }
+  
+  .home_new img {
+    border-radius: 10px;
+  }
